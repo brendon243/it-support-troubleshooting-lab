@@ -1,4 +1,4 @@
-# Case 001 - Authentication Failure
+# Ticket 001 - Authentication Failure
 
 ## Scenario
 A user is unable to log into their workstation despite entering what they believe are correct credentials.
