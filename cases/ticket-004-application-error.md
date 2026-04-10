@@ -18,12 +18,11 @@ Application files were corrupted or improperly installed.
 ## Action Taken
 Uninstalled and reinstalled the application.
 
+## Validation
+- Application launched successfully after reinstall
+- No further errors observed during use
 ## Result
 Application launched successfully.
 
 ## Reflection
 Reinstallation is often an effective fix for application-related issues.
-
-## Validation
-- Application launched successfully after reinstall
-- No further errors observed during use
