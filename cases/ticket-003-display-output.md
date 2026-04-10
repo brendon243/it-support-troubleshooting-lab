@@ -18,12 +18,11 @@ Loose HDMI connection prevented signal transmission.
 ## Action Taken
 Reconnected HDMI cable and adjusted display settings.
 
+## Validation
+- Confirmed display detected in Windows settings
+- Verified monitor output remained stable after reconnection
 ## Result
 Monitor display restored and functioning properly.
 
 ## Reflection
 Many display issues are caused by simple connection problems rather than hardware failure.
-
-## Validation
-- Confirmed display detected in Windows settings
-- Verified monitor output remained stable after reconnection
