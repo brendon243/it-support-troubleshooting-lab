@@ -25,3 +25,7 @@ Internet access restored successfully.
 
 ## Reflection
 Effective network troubleshooting starts with checking adapter status before moving to command-line diagnostics.
+
+## Validation
+- Verified internet access by loading multiple websites
+- Successful response received from `ping google.com`
