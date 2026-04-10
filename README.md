@@ -1,4 +1,4 @@
-# IT Support Ticket Logs
+# it-support-troubleshooting-lab
 
 This project showcases hands-on simulations of real-world IT support scenarios. Each case demonstrates a structured troubleshooting approach including investigation, diagnosis, resolution, validation, and reflection.
 
