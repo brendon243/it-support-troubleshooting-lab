@@ -1,4 +1,4 @@
-# Case 003 - Display Output Issue
+# Ticket 003 - Display Output Issue
 
 ## Scenario
 User reports that their monitor is not displaying any image.
