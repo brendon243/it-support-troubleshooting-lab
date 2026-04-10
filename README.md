@@ -1,4 +1,4 @@
-# IT Support Case Logs
+# IT Support Ticket Logs
 
 This project documents hands-on simulations of common IT support issues. Each case demonstrates a structured troubleshooting approach including investigation, diagnosis, resolution, and outcome.
 
