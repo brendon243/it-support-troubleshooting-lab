@@ -3,7 +3,7 @@
 This project showcases hands-on simulations of real-world IT support scenarios. Each case demonstrates a structured troubleshooting approach including investigation, diagnosis, resolution, validation, and reflection.
 
 ## Project Overview
-The goal of this project is to simulate common Tier 1 help desk issues and document how they are diagnosed and resolved in a professional, structured format.
+The goal of this project is to simulate common help desk issues and document how they are diagnosed and resolved in a professional, structured format.
 
 ## Case Dashboard
 View all documented cases here:  
