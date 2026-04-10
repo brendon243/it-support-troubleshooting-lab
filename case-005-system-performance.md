@@ -1,4 +1,4 @@
-# Ticket 005 - System Performance Degradation
+## Ticket 005 - System Performance Degradation
 
 ## Scenario
 The user reports that their system is running very slowly.
